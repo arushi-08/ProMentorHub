@@ -1,6 +1,9 @@
-# Her Health Advocate
+# ProMentorHub
 
-This is an application that empowers women in advocating for their health, offering tailored guidance in an easy-to-understand format, and enhancing access to pain relief to enhance their overall wellbeing. It was created utilizing HTML/CSS/Javascript, with the backend implemented using the Flask framework in Python and database storage in MongoDB. User authentication was established with JWT, and an intelligent taskbot feature was developed using the OpenAI API.
+Career mentorship is especially important for disadvantaged communities, as these individuals often face additional challenges in pursuing and achieving their professional aspirations.
+Our web application helps individuals gain access to diverse range of experienced mentors by providing personalized guidance and support to help them achieve their professional aspirations
+
+
 
 # Setup
 
